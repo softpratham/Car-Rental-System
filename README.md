@@ -11,7 +11,7 @@ Dive into the world of car rentals with the Car Rental System, a Java-based cons
 - 📜 Rental History: Track rental activities, customer details, and rental durations in one place.
 # Getting Started
 1.Clone the Repository:git clone https://github.com/prabhathakuryt/Car-Rental-System.git
- Follow the included setup instructions to get started.
+ * Follow the included setup instructions to get started.
 # Contributions Welcome! 🎉
 Collaborate to make this project better! Open issues, suggest features, or submit pull requests.
 
